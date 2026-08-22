@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Gidret!<h1>
+  
+---
 
-<!--
-**Gidret/Gidret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="assets/gidret.gif" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Technologies</h2>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma)](https://skillicons.dev)
+
+</div>
+
+---
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gidret&theme=dark)](https://git.io/streak-stats)
+
+---
+
