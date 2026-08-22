@@ -17,7 +17,7 @@
 </div>
 
 ---
-<h2 align="center">My statistic</h2>
+<h2 align="center">My statistics</h2>
 
 <div align="center">
 
