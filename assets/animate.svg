@@ -4,23 +4,21 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 32px;
       font-weight: 600;
-      fill: #c9d1d9; /* Цвет текста для темной темы */
+      fill: #c9d1d9;
     }
 
     @media (prefers-color-scheme: light) {
-      .text-title { fill: #24292f; } /* Цвет текста для светлой темы */
+      .text-title { fill: #24292f; }
     }
   </style>
 
-  <!-- Векторный текст по центру с анимацией всплытия и появления -->
   <text x="50%" y="45" text-anchor="middle" class="text-title" opacity="0">
     Hello, I'm Gidret!
     
-    <!-- Анимация прозрачности (Fade-in) -->
-    <animate attributeName="opacity" from="0" to="1" dur="1.2s" cubic-bezier="0.25, 1, 0.5, 1" fill="freeze" />
+    <!-- Плавное появление (Fade-in) -->
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze" />
     
-    <!-- Анимация движения снизу вверх (Slide) -->
-    <animate attributeName="y" from="65" to="45" dur="1.2s" cubic-bezier="0.25, 1, 0.5, 1" fill="freeze" />
+    <!-- Движение снизу вверх (Slide) -->
+    <animate attributeName="y" from="65" to="45" dur="1.2s" fill="freeze" />
   </text>
 </svg>
-
