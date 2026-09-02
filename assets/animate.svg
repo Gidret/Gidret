@@ -1,32 +1,26 @@
-<svg fill="none" viewBox="0 0 800 70" width="100%" height="70" xmlns="http://w3.org">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://w3.org">
-      <style>
-        .fade-in-slide {
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-          font-size: 32px;
-          font-weight: 600;
-          color: #c9d1d9;
-          text-align: center;
-          margin: 0;
-          opacity: 0;
-          transform: translateY(20px);
-          animation: fadeInSlide 1.2s cubic-bezier(0.25, 1, 0.5, 1) forwards;
-        }
+<svg viewBox="0 0 800 70" width="100%" height="70" xmlns="http://w3.org">
+  <style>
+    .text-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 32px;
+      font-weight: 600;
+      fill: #c9d1d9; /* Цвет текста для темной темы */
+    }
 
-        @keyframes fadeInSlide {
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
+    @media (prefers-color-scheme: light) {
+      .text-title { fill: #24292f; } /* Цвет текста для светлой темы */
+    }
+  </style>
 
-        @media (prefers-color-scheme: light) {
-          .fade-in-slide { color: #24292f; }
-        }
-      </style>
-      <h1 class="fade-in-slide">Hello, I'm Gidret!</h1>
-    </div>
-  </foreignObject>
+  <!-- Векторный текст по центру с анимацией всплытия и появления -->
+  <text x="50%" y="45" text-anchor="middle" class="text-title" opacity="0">
+    Hello, I'm Gidret!
+    
+    <!-- Анимация прозрачности (Fade-in) -->
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" cubic-bezier="0.25, 1, 0.5, 1" fill="freeze" />
+    
+    <!-- Анимация движения снизу вверх (Slide) -->
+    <animate attributeName="y" from="65" to="45" dur="1.2s" cubic-bezier="0.25, 1, 0.5, 1" fill="freeze" />
+  </text>
 </svg>
 
