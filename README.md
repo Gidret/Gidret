@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
- <img width="600" src="assets/gidret.gif" />
+ <img width="100%" src="assets/gidret.gif" />
 </p>
 
 ---
