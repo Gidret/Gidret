@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Gidret!<h1>
+<h1 align="center">👋 Hello, I'm Gidret!</h1>
   
 ---
 
@@ -17,32 +17,32 @@
 </div>
 
 ---
+
 <h2 align="center">My statistics</h2>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gidret&theme=tokyonight)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidret&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
+
+<br>
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Gidret&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
+
+<br>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=Gidret&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?user=Gidret&show_icons=true&theme=tokyonight" alt="Gidret's GitHub stats" />
 </div>
+
+<br> -->
+
 
 <div align="center">
-
-[![Gidret's GitHub stats](https://github-readme-stats.vercel.app/api?user=Gidret&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-activity-graph.vercel.app/graph?username=Gidret&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true" alt="Activity Graph" />
 </div>
-
-<div align="center">
-
-[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=Gidret&theme=tokyonight)](https://github.com/ashutosh00710/github-activity-graph)
-
-</div>
-
 
 ---
-
