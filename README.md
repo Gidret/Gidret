@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hello, I'm Gidret!</h1>
-  
----
-
 <p align="center">
  <img width="100%" src="assets/gidret.gif" />
+</p>
+
+<p align="center">
+  <img src="assets/animate.svg" alt="Hello, I'm Gidret!" width="500" />
 </p>
 
 ---
