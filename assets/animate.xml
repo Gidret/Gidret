@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 800 70" width="100%" height="70" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
+        .fade-in-slide {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+          font-size: 32px;
+          font-weight: 600;
+          color: #c9d1d9; /* Цвет текста для темной темы GitHub */
+          text-align: center;
+          margin: 0;
+          opacity: 0;
+          transform: translateY(20px);
+          animation: fadeInSlide 1.2s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+        }
+
+        @keyframes fadeInSlide {
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+
+        /* Адаптация под светлую тему GitHub */
+        @media (prefers-color-scheme: light) {
+          .fade-in-slide { color: #24292f; }
+        }
+      </style>
+      <h1 class="fade-in-slide">Hello, I'm Gidret!</h1>
+    </div>
+  </foreignObject>
+</svg>
