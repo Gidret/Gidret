@@ -6,7 +6,7 @@
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
           font-size: 32px;
           font-weight: 600;
-          color: #c9d1d9;
+          color: #c9d1d9; /* Цвет для темной темы GitHub */
           text-align: center;
           margin: 0;
           opacity: 0;
@@ -21,6 +21,7 @@
           }
         }
 
+        /* Автоматическая адаптация под светлую тему GitHub */
         @media (prefers-color-scheme: light) {
           .fade-in-slide { color: #24292f; }
         }
@@ -29,3 +30,4 @@
     </div>
   </foreignObject>
 </svg>
+
