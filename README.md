@@ -15,7 +15,7 @@ Hi there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h3>
 
-I'm **Gidret**, a Full-Stack Web Developer & UI/UX Designer. I want to become a **software architecture & design pro**. <br>
+I'm Gidret, a Full-Stack Web Developer & UI/UX Designer. I want to become a software architecture & design pro. <br>
 I've dreamed of building beautiful, world-changing applications since I was a kid.
 
 <details>
@@ -23,7 +23,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 - **Name**: Gidret
 - **From**: Russia
-- **Full-Stack Dev** | **UI/UX Designer**
+- Full-Stack Dev | UI/UX Designer
 - I have a solid foundation in frontend, backend, interface design & prototyping
 
 
@@ -39,7 +39,11 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,git)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,threejs,react,figma,blender)](https://skillicons.dev)
 
+<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Gidret&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+
 </div>
+
+
 
 ---
 
@@ -47,31 +51,20 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidret&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidret&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Gidret&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+</p>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Gidret&layout=compact&theme=tokyonight" alt="Top Langs" />
+<div align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=Gidret&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=Gidret&show_icons=true&theme=tokyonight" alt="Gidret's GitHub stats" />
-</div>
-
-<br> -->
-
-
-<div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Gidret&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true" alt="Activity Graph" />
-</div>
-
-<br>
-
 
 ---
