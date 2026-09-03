@@ -39,7 +39,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,git)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,threejs,react,figma,blender)](https://skillicons.dev)
 
-<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Gidret&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Gidret&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 
 </div>
 
@@ -51,14 +51,14 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidret&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gidret&theme=tokyonight&hide_border=true" width="50%" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Gidret&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Gidret&show_icons=true&theme=tokyonight&hide_border=true" width="50%" alt="GitHub Stats" />
 </p>
 
 <div align="center">
