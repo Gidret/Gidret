@@ -32,7 +32,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 ---
 
-<h2 align="center">Technologies</h2> <br>
+<h2 align="center">Technologies</h2> 
 
 <div align="center">
 
@@ -52,6 +52,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 </div>
 
 <br>
+
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Gidret&layout=compact&theme=tokyonight" alt="Top Langs" />
