@@ -3,10 +3,12 @@
 </p>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Gidret!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=30&pause=1000&color=F7EC00&center=true&vCenter=true&width=435&lines=Hello%2C+I%60m+Gidret" alt="Typing SVG" /></a>
 </div>
 
 <img width="25%" align='right' src="assets/image.jpg">
+
+<br>
 
 <h3 align="left">
 Hi there
@@ -67,5 +69,8 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 <div align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=Gidret&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true" alt="Activity Graph" />
 </div>
+
+<br>
+
 
 ---
