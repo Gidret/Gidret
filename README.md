@@ -2,9 +2,31 @@
  <img width="100%" src="assets/gidret.gif" />
 </p>
 
-<p align="center">
-  <img src="assets/animate.svg" alt="Hello, I'm Gidret!" width="500" />
-</p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Gidret!" alt="Typing SVG" /></a>
+</div>
+
+<img width="25%" align='right' src="assets/">
+
+<h3 align="left">
+Hi there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h3>
+
+I'm **Gidret**, a Full-Stack Web Developer & UI/UX Designer. I want to become a **software architecture & design pro**. <br>
+I've dreamed of building beautiful, world-changing applications since I was a kid.
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Gidret
+- **From**: Russia
+- **Full-Stack Dev** | **UI/UX Designer**
+- I have a solid foundation in frontend, backend, interface design & prototyping
+
+
+</details>
+<br>
 
 ---
 
