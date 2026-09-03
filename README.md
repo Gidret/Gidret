@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Gidret!" alt="Typing SVG" /></a>
 </div>
 
-<img width="25%" align='right' src="assets/">
+<img width="25%" align='right' src="assets/image.jpg">
 
 <h3 align="left">
 Hi there
@@ -30,11 +30,12 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 ---
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Technologies</h2> <br>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,git)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,threejs,react,figma,blender)](https://skillicons.dev)
 
 </div>
 
