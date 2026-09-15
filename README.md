@@ -23,7 +23,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 - **Name**: Gidret
 - **From**: Russia
-- Full-Stack Dev | UI/UX Designer
+- **Full-Stack Dev | UI/UX Designer**
 - I have a solid foundation in frontend, backend, interface design & prototyping
 
 
