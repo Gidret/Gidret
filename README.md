@@ -36,8 +36,8 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,git)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=js,threejs,react,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,blender)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,threejs,php,mysql,git)](https://skillicons.dev)
 
 <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=Gidret&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
 
