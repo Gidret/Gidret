@@ -30,8 +30,6 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 </details>
 <br>
 
----
-
 <h2 align="center">Technologies</h2> 
 
 <div align="center">
@@ -44,8 +42,6 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 </div>
 
 
-
----
 
 <h2 align="center">My statistics</h2>
 
@@ -67,4 +63,3 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 <br>
 
----
