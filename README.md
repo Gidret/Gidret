@@ -37,7 +37,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,blender)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,threejs,php,mysql,git)](https://skillicons.dev)
 
-<img src="https://metrics.lecoq.io/Gidret?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&theme=tokyonight&config.timezone=Europe%2FMoscow" alt="Languages" />
+![Languages](./github-metrics-langs.svg)
 
 </div>
 
