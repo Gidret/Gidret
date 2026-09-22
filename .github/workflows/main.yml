@@ -2,8 +2,8 @@ name: Generate Languages Card
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Автоматическое обновление раз в сутки
-  workflow_dispatch: # Возможность запустить вручную через кнопку
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,6 +19,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_languages_indepth: yes
           plugin_languages_sections: most-used
-          theme: tokyonight
+          plugin_languages_recent_days: 0 # Отключает ограничение по дням активности
+          plugin_languages_recent_load: 1000 # Загружает историю до 1000 коммитов
