@@ -37,7 +37,7 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,blender)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,threejs,php,mysql,git)](https://skillicons.dev)
 
-![Languages](./github-metrics-langs.svg)
+<!-- ![Languages](./github-metrics-langs.svg) -->
 
 </div>
 
