@@ -39,6 +39,10 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 
 <!-- ![Languages](./github-metrics-langs.svg) -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidret&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
+</a>
+
 </div>
 
 
