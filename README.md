@@ -37,7 +37,6 @@ I've dreamed of building beautiful, world-changing applications since I was a ki
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,blender)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,threejs,php,mysql,git)](https://skillicons.dev)
 
-<!-- ![Languages](./github-metrics-langs.svg) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gidret&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
